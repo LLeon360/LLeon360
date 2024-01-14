@@ -12,7 +12,7 @@
 
 ###
 
-<h3 align="left">Stuff I've used:</h3>
+<h3 align="left">Stuff I've used ✨</h3>
 
 ###
 
@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">AI/ML</p>
+<p align="left">🤖 AI/ML </p>
 
 ###
 
@@ -38,7 +38,7 @@
 
 ###
 
-<p align="left">Web Dev</p>
+<p align="left">🕸 Web Dev </p>
 
 ###
 
@@ -55,6 +55,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+</div>
+
+###
+
+<p align="left">🎮 Game Dev </p>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
 </div>
 
 ###
