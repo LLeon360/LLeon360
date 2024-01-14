@@ -1,20 +1,12 @@
 <h1 align="center">Hi🌊! I'm Leon</h1>
 
-###
-
 <h3 align="left">Aspiring AI Researcher and Software Dev</h3>
-
-###
 
 - ✨ Creating bugs since forever :)
 - 🔭 I’m currently working on [detecting insincere Quora ?'s with NLP](https://github.com/LLeon360/aiprojects-nlp-quora-questions)
 - 🌱 I’m currently learning about NLP, particularly Transformer models, and also dabbling in web dev
 
-###
-
 <h3 align="left">Stuff I've used ✨</h3>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
@@ -23,11 +15,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 </div>
 
-###
-
 <p align="left">🤖 AI/ML </p>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo"  />
@@ -36,11 +24,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
 </div>
 
-###
-
 <p align="left">🕸 Web Dev </p>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -57,14 +41,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
 </div>
 
-###
-
 <p align="left">🎮 Game Dev </p>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="30" alt="unity logo"  />
 </div>
-
-###
