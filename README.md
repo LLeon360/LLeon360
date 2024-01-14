@@ -1,6 +1,7 @@
 <h1 align="center">Hi🌊! I'm Leon</h1>
 
 <h3 align="left">Aspiring AI Researcher and Software Dev</h3>
+
 - ✨ Creating bugs since forever :)
 - 🔭 I’m currently working on [detecting insincere Quora ?'s with NLP](https://github.com/LLeon360/aiprojects-nlp-quora-questions)
 - 🌱 I’m currently learning about NLP, particularly Transformer models, and also dabbling in web dev
