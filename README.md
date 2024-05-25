@@ -2,9 +2,10 @@
 
 <h3 align="left">Aspiring AI Researcher and Software Dev</h3>
 
-- ✨ Creating bugs since forever :)
-- 🔭 I’m currently working on [an RTS PVP tower defense game](https://github.com/LLeon360/Untitled-ENGR96A-Game), [Google Decimeter Challenge](https://github.com/LLeon360/Google-Decimeter-Challenge-23), [detecting insincere Quora ?'s with NLP](https://github.com/LLeon360/aiprojects-nlp-quora-questions)
-- 🌱 I’m currently learning about Transformers models and Mechanistic Interpretability 
+<sub><sup>✨ Creating bugs since forever :) 🐞</sub></sup>
+  
+- 🔭 I’m working on [Reverse Proxy with Deno🐱‍🐉](https://github.com/pbrucla/reverse_proxy_group2), [an RTS PVP tower defense game🤺](https://github.com/LLeon360/Untitled-ENGR96A-Game), [Google Decimeter Challenge🛰](https://github.com/LLeon360/Google-Decimeter-Challenge-23), [detecting insincere Quora ?'s with NLP⁉](https://github.com/LLeon360/aiprojects-nlp-quora-questions)
+- 🌱 I’m researching Mechanistic Interpretability 
 
 <h3 align="left">Stuff I've used ✨</h3>
 <div align="left">
