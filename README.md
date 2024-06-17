@@ -8,9 +8,7 @@
 - 👀 Some stuff I've made: [Reverse Proxy with Deno🐱‍🐉](https://github.com/pbrucla/reverse_proxy_group2), [an RTS PVP tower defense game🤺](https://github.com/LLeon360/Untitled-ENGR96A-Game), [Google Decimeter Challenge🛰](https://github.com/LLeon360/Google-Decimeter-Challenge-23), [detecting insincere Quora ?'s with NLP⁉](https://github.com/LLeon360/aiprojects-nlp-quora-questions)
 - 🌱 Learning desktop app development with Electron ⚛, learning LangChain 🦜
 - 🔬 I’m researching Mechanistic Interpretability
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=LLeon360&theme=dracula&mode=weekly)](https://git.io/streak-stats)
-
+---
 <h3 align="left">Stuff I've used ✨</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="35" alt="cplusplus logo"  />
@@ -44,3 +42,9 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="35" alt="unity logo"  />
 </div>
+
+---
+
+<p align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=LLeon360&theme=dracula&mode=weekly&card_width=550&card_height=180" alt="GitHub Streak" /></a>
+</p>
