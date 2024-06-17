@@ -6,7 +6,7 @@
   
 - 🔭 I’m working on: [Automatic Essay Grading with Deberta-V3 📝]() 
 - 👀 Some stuff I've made: [Reverse Proxy with Deno🐱‍🐉](https://github.com/pbrucla/reverse_proxy_group2), [an RTS PVP tower defense game🤺](https://github.com/LLeon360/Untitled-ENGR96A-Game), [Google Decimeter Challenge🛰](https://github.com/LLeon360/Google-Decimeter-Challenge-23), [detecting insincere Quora ?'s with NLP⁉](https://github.com/LLeon360/aiprojects-nlp-quora-questions)
-- 🌱 Learning desktop app development with Electron ⚛, learning LangChain 🦜
+- 🌱 I'm learning desktop app development with Electron ⚛, also LangChain 🦜
 - 🔬 I’m researching Mechanistic Interpretability
 ---
 <h3 align="left">Stuff I've used ✨</h3>
