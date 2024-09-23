@@ -3,6 +3,8 @@
 <h3 align="left">Aspiring AI Researcher and Software Dev</h3>
 
 <sub><sup>✨ Creating bugs since forever :) 🐞</sub></sup>
+
+<sup>💌 (leondev360@gmail.com)</sup>
   
 - 🔭 I’m working on: [Automatic Essay Grading with Deberta-V3 📝]() 
 - 👀 Some stuff I've made: [AI-Powered Language Learning/Mastery App 🗣🔠](https://devpost.com/software/lingsim), [Reverse Proxy with Deno🐱‍🐉](https://github.com/pbrucla/reverse_proxy_group2), [an RTS PVP tower defense game🤺](https://github.com/LLeon360/Untitled-ENGR96A-Game), [Google Decimeter Challenge🛰](https://github.com/LLeon360/Google-Decimeter-Challenge-23), [detecting insincere Quora ?'s with NLP⁉](https://github.com/LLeon360/aiprojects-nlp-quora-questions)
