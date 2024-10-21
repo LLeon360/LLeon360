@@ -8,8 +8,7 @@
   
 - 🔭 I’m working on: 🚧 stuff to come 🏗
 - 👀 Some stuff I've made: [AI-Powered Language Learning/Mastery App 🗣🔠](https://devpost.com/software/lingsim), [Reverse Proxy with Deno🐱‍🐉](https://github.com/pbrucla/reverse_proxy_group2), [an RTS PVP tower defense game🤺](https://github.com/LLeon360/Untitled-ENGR96A-Game), [Automatic Essay Grading with Deberta-V3 📝](https://github.com/LLeon360/automated-essay-scoring), [Google Decimeter Challenge🛰](https://github.com/LLeon360/Google-Decimeter-Challenge-23), [detecting insincere Quora ?'s with NLP⁉](https://github.com/LLeon360/aiprojects-nlp-quora-questions)
-- 🌱 I'm learning about LangChain 🦜, stuff to come
-- 🔬 I’m researching Mechanistic Interpretability
+- 🌱 I'm learning about RL
 ---
 <h3 align="left">Stuff I've used ✨</h3>
 <div align="left">
