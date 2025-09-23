@@ -4,7 +4,7 @@
 
 <sub><sup>✨ Creating bugs since forever 🐞</sup></sub>
 
-<sup>💌 leondev360@gmail.com</sup>
+<sup>💌 leondev360 [at] gmail [dot] com</sup>
 
 - 🔭 I’m working on: **[Slithe.RL 🐍 – Reinforcement Learning in Atari Surround](https://github.com/LLeon360/Slithe.RL)**
 - 👀 Some things I’ve built:
