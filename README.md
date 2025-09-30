@@ -8,7 +8,7 @@
 
 - 🔭 I’m working on: **[Slithe.RL 🐍 – Reinforcement Learning in Atari Surround](https://github.com/LLeon360/Slithe.RL)**
 - 👀 Some things I’ve built:
-  - <a href="https://shop.jingo.app"><img src="assets/logos/jingo_logo.svg" width="15" height="15" style="vertical-align:middle;" /> LLM Powered Product Recommendation Systems @ Jingo</a>
+  - <a href="https://www.jingo.app"><img src="assets/logos/jingo_logo.svg" width="15" height="15" style="vertical-align:middle;" /> LLM Powered Product Recommendation Systems @ Jingo</a>
   - [Basilisk 🦎 – Secret Hitler with LLMs & humans](https://github.com/LLeon360/Secret-H-AI)
   - [AI-Powered Language Mastery 🗣🔠](https://devpost.com/software/lingsim)
   - [Reverse Proxy with Deno 🐱‍🐉](https://github.com/pbrucla/reverse_proxy_group2)
