@@ -13,6 +13,7 @@
   - <a href="https://www.jingo.app"><img src="assets/logos/jingo_logo.svg" width="15" height="15" style="vertical-align:middle;" /> LLM Powered Product Recommendation Systems @ Jingo</a>
   - [Slithe.RL 🐍 – Reinforcement Learning in Atari Surround](https://github.com/LLeon360/Slithe.RL)
   - [Basilisk 🦎 – Secret Hitler Framework with LLMs & humans](https://github.com/LLeon360/Secret-H-AI)
+  - [Meta emg2qwerty ⌨️ - decoding sEMG signals from QWERTY typing to text using Transformers](https://github.com/LLeon360/emg2qwerty/tree/main)  
   - [AI-Powered Language Mastery App 🗣🔠](https://devpost.com/software/lingsim)
   - [Automatic Essay Grading 📝](https://github.com/LLeon360/automated-essay-scoring)
   - [Google Decimeter Challenge 🛰](https://github.com/LLeon360/Google-Decimeter-Challenge-23)
