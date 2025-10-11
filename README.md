@@ -23,7 +23,8 @@
   - [Cryptographic API Misuse Detection Framework ⏰](https://github.com/pbrucla/obuhersys)
 - 🎮 Game Dev:
   - [RTS PvP Tower-Defense 🤺](https://github.com/LLeon360/Untitled-ENGR96A-Game)
-
+- 🕸️ Web Dev:
+  - [Resume Manager App 📃](https://github.com/LLeon360/prolio)
 - 🌱Learning 
 ---
 
