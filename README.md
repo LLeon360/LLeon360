@@ -6,8 +6,12 @@
 
 <sup>💌 leondev360 [at] gmail [dot] com</sup>
 
-[🚀 Website](https://leonliu.vercel.app/)
+### [🚀 Website](https://leonliu.vercel.app/)
 
+<h3 align="left">🔭 Research</h3>
+
+  - **[Dreamland: Controllable World Creation with Simulator and Generative Models](https://metadriverse.github.io/dreamland/)**
+---
 <!-- - 🔭 I’m working on: **** -->
 - 👀 Some things I’ve built:
   - <a href="https://www.jingo.app"><img src="assets/logos/jingo_logo.svg" width="15" height="15" style="vertical-align:middle;" /> LLM Powered Product Recommendation Systems @ Jingo</a>
