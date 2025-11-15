@@ -16,15 +16,13 @@
 - 👀 Some things I’ve built:
   - <a href="https://www.jingo.app"><img src="assets/logos/jingo_logo.svg" width="15" height="15" style="vertical-align:middle;" /> LLM Powered Product Recommendation Systems @ Jingo</a>
   - [Slithe.RL 🐍 – Reinforcement Learning in Atari Surround](https://github.com/LLeon360/Slithe.RL)
-  - [Basilisk 🦎 – Secret Hitler Framework with LLMs & humans](https://github.com/LLeon360/Secret-H-AI)
   - [Meta emg2qwerty ⌨️ - decoding sEMG signals from QWERTY typing to text using Transformers](https://github.com/LLeon360/emg2qwerty/tree/main)  
   - [AI-Powered Language Mastery App 🗣🔠](https://devpost.com/software/lingsim)
-  - [Automatic Essay Grading 📝](https://github.com/LLeon360/automated-essay-scoring)
-  - [Google Decimeter Challenge 🛰](https://github.com/LLeon360/Google-Decimeter-Challenge-23)
+  - [Basilisk 🦎 – Secret Hitler Framework with LLMs & humans](https://github.com/LLeon360/Secret-H-AI)
   - [Detecting Insincere Quora ?s ⁉](https://github.com/LLeon360/aiprojects-nlp-quora-questions)
 - 🔒 Cyber:
-  - [Reverse Proxy with Deno 🐱‍🐉](https://github.com/pbrucla/reverse_proxy_group2)
   - [Cryptographic API Misuse Detection Framework ⏰](https://github.com/pbrucla/obuhersys)
+  - [Reverse Proxy with Deno 🐱‍🐉](https://github.com/pbrucla/reverse_proxy_group2)
 - 🎮 Game Dev:
   - [RTS PvP Tower-Defense 🤺](https://github.com/LLeon360/Untitled-ENGR96A-Game)
 - 🕸️ Web Dev:
